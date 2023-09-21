@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const db = require('./queries.js');
+const db = require('./assets/js/queries.js');
 
 const start = async () => {
     const answer = await inquirer.prompt({
