@@ -16,6 +16,8 @@
   ## Installation
   
   install mysql and node.js, clone repo, run "npm i" to install inquirer and mysql2 packages. 
+
+  repo link: https://github.com/SporeSun/Employee-Database.git
   
   ## Usage
 
